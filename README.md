@@ -22,7 +22,7 @@ Com o Java já instalado, podemos seguir com a instalação do Pentaho BI Server
 
 1. Faça o download da última versão instável do Pentaho BI Server **aqui:** [Download Pentaho BI Server](http://sourceforge.net/projects/pentaho/files/Business%20Intelligence%20Server/ "Download Pentaho BI Server").
 
-2. Abra o terminal (ctrl+alt+t) e digite os seguitnes comandos:
+2. Abra o terminal (ctrl+alt+t) e digite os seguintes comandos:
 
 `sudo mkdir /opt/pentaho`
 
@@ -48,7 +48,7 @@ Com o Java já instalado, podemos seguir com a instalação do Pentaho BI Server
 
 ## Iniciando o Servidor Pentaho
 
-Abra o terminal (ctrl+alt+t) e digite os seguitnes comandos:
+Abra o terminal (ctrl+alt+t) e digite os seguintes comandos:
 
 `cd /opt/pentaho/biserver-ce`
 
@@ -62,7 +62,7 @@ Abra o terminal (ctrl+alt+t) e digite os seguitnes comandos:
 
 ## Acessando o Pentaho Administration Console
 
-Abra o terminal (ctrl+alt+t) e digite os seguitnes comandos:
+Abra o terminal (ctrl+alt+t) e digite os seguintes comandos:
 
 `cd /opt/pentaho/administration-console`
 
@@ -75,7 +75,7 @@ Abra o terminal (ctrl+alt+t) e digite os seguitnes comandos:
 
 ## Parando o Servidor Pentaho
 
-Abra o terminal (ctrl+alt+t) e digite os seguitnes comandos:
+Abra o terminal (ctrl+alt+t) e digite os seguintes comandos:
 
 `cd /opt/pentaho/biserver-ce`
 
@@ -83,7 +83,7 @@ Abra o terminal (ctrl+alt+t) e digite os seguitnes comandos:
 
 ## Parando o Pentaho Administration Console
 
-Abra o terminal (ctrl+alt+t) e digite os seguitnes comandos:
+Abra o terminal (ctrl+alt+t) e digite os seguintes comandos:
 
 `cd /opt/pentaho/administration-console`
 
@@ -95,7 +95,7 @@ Faça o download no seguinte repositório:
 
 **Link:** [CTools installer](https://github.com/pmalves/ctools-installer "CTools installer").
 
-Abra o terminal (ctrl+alt+t) e digite os seguitnes comandos:
+Abra o terminal (ctrl+alt+t) e digite os seguintes comandos:
 
 `./ctools-installer.sh -s solutionPath [-w pentahoWebapPath]`
 
